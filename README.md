@@ -4,7 +4,7 @@
 
 Howdy.com helps companies hire and manage software development teams around the world. Use Howdy.com to help companies vet and hire full-time international teammates, and provide them equipment and local benefits. Everything a team needs to support an engineering org around the world.
  
-## Order Equipment for Teammates
+### Order Equipment for Teammates
 __Feb 17, 2022__
 
 
