@@ -18,4 +18,4 @@ You can now request equipment for your international teammates. When building a 
 
 You can also add custom equipment: <img width="476" alt="Screen Shot 2023-02-17 at 2 09 03 PM" src="https://user-images.githubusercontent.com/125207/219783365-d9320d5d-74da-4131-8c4f-3612fd00602f.png">
 
-Non-uniform computing specs among distributed teams are a source of hidden drag. For example, if integration environments are much slower to run on international teammate computers, then those teammates run those tests less frequently. We hope this new feature helps address this risk with new teams.
+Non-uniform computing specs among distributed teams are a source of hidden drag. For example, if integration environments are slower to run on international teammate computers, then teammates run those tests less frequently. We hope this feature helps address this risk with new teams.
